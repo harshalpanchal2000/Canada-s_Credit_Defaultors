@@ -4,7 +4,7 @@ This project presents a predictive model for credit card defaults using a Tablea
 
 ## Table of Contents
 - [Overview](#overview)
-- - [Tableau Public Link](#tableau-public-link)
+- [Tableau Public Link](#tableau-public-link)
 - [Data Source](#data-source)
 - [Features](#features)
 - [Visualizations](#visualizations)
